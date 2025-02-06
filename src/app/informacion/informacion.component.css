@@ -1,0 +1,5 @@
+.scroll-section {
+    align-items: center;
+    max-height: 100px;
+    overflow-y: auto;
+  }
